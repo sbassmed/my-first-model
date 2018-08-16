@@ -4,7 +4,7 @@ one:
   name: MyText
   duration: 1
   year: 2018-08-15
-  rate: MyString
+  rating: MyString
   description: MyText
   image_url: MyText
 
@@ -12,6 +12,6 @@ two:
   name: MyText
   duration: 1
   year: 2018-08-15
-  rate: MyString
+  rating: MyString
   description: MyText
   image_url: MyText
